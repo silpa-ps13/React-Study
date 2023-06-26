@@ -1,11 +1,11 @@
 import React from 'react';
 import './style.css';
-import Form from '../components/Form';
+import LifeCycleA from '../components/LifeCycleA';
 
 export default function App() {
   return (
     <div>
-      <Form />
+      <LifeCycleA></LifeCycleA>
     </div>
   );
 }
